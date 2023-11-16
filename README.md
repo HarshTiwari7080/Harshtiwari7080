@@ -1,4 +1,4 @@
-<img align="center" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdwcM3zokSCwVB3NoKp4YCbl3P7f69xrPP5Q&usqp=CAU width="100%" height="50%">
+
 <h1 align="center">Hi 👋, I'm Harsh Tiwari</h1>
 <h3 align="center">A passionate Full Stack Development from India</h3>
 <img align="right" alt="coding" width="400" scr="https://img.freepik.com/free-photo/html-system-websites-concept_23-2150323536.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1698969600&semt=ais" alt="harshtiwari7080" /> </p>
