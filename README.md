@@ -1,7 +1,8 @@
-
+<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdwcM3zokSCwVB3NoKp4YCbl3P7f69xrPP5Q&usqp=CAU " width="100%" height="50%">
 <h1 align="center">Hi 👋, I'm Harsh Tiwari</h1>
 <h3 align="center">A passionate Full Stack Development from India</h3>
-<img align="right" alt="coding" width="400" scr="https://img.freepik.com/free-photo/html-system-websites-concept_23-2150323536.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1698969600&semt=ais" alt="harshtiwari7080" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshtiwari7080&label=Profile%20views&color=0e75b6&style=flat" alt="harshtiwari7080" > </p>
 
 <p align="left"> <a href="https://twitter.com/tiwari75916603" target="blank"><img src="https://img.shields.io/twitter/follow/tiwari75916603?logo=twitter&style=for-the-badge" alt="tiwari75916603" /></a> </p>
 
@@ -24,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshtiwari7080&show_icons=true&locale=en" alt="harshtiwari7080" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshtiwari7080&" alt="harshtiwari7080" /></p>
+
+
